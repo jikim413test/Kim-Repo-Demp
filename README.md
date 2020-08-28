@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Kim Demo repo for Github Practice
 
 You can use the [editor on GitHub](https://github.com/jikim413test/Kim-Repo-Demp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
